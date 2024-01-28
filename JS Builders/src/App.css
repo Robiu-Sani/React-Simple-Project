@@ -1,0 +1,19 @@
+*{
+    /* font-family: 'Dancing Script', cursive; */
+    font-family: 'Teko', sans-serif;
+    font-size: 20px;
+}
+.bgm{
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.bgo{
+    background: rgba(7, 0, 0, 0.541);
+}
+.textShadow{
+    text-shadow: 0px 0px 3px black;
+}
+.textSpace{
+    letter-spacing: 2px;
+}
